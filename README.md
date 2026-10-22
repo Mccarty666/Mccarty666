@@ -2,6 +2,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ1dzFneXVoZGJiY290ZmE4ODd2cjB1aDJ1bXpkYW5lOHBvcDFvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zRLUZNckNid0b668mv/giphy.gif" width="600" alt="Anime GIF" />
 </div>
 
+<br><br>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,python,pytorch,mysql,docker,ubuntu,vscode,github&perline=7" alt="Tech Stack" />
