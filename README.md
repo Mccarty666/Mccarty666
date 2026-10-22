@@ -19,3 +19,14 @@
 </div>
 
 <br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mccarty666/Mccarty666/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mccarty666/Mccarty666/output/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Mccarty666/Mccarty666/output/snake.svg" width="100%" />
+  </picture>
+
+  <br><br>
+
+</div>
