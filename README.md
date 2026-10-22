@@ -1,5 +1,3 @@
-<!-- Banner Gambar Atas -->
-<img src="https://raw.githubusercontent.com/username/repo/branch/banner.png" alt="Banner" width="100%">
 
 ## 
 
