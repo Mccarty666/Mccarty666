@@ -2,9 +2,6 @@
 ## 
 
 <br>
-
-### 📊 GitHub Stats
-
 <!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mccarty666&theme=tokyonight" alt="GitHub Streak" />
