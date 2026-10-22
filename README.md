@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Banner Gambar Atas -->
+<img src="https://raw.githubusercontent.com/username/repo/branch/banner.png" alt="Banner" width="100%">
 
-<!--
-**Mccarty666/Mccarty666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mccarty666&theme=tokyonight" alt="GitHub Streak" />
+</div>
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mccarty666&theme=tokyonight" alt="Activity Graph" />
+</div>
+<br>
+
+<!-- Top Languages & General Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mccarty666&layout=donut&theme=tokyonight" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mccarty666&show_icons=true&theme=tokyonight" height="195px" />
+</div>
